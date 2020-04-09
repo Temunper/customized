@@ -28,5 +28,4 @@ $this->params['breadcrumbs'][] = 'Update';
 
 
 <?php
-$this->registerJs($js);
 ?>
